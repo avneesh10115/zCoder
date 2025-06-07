@@ -48,6 +48,7 @@ npm start
 -   User authentication: Users can create an account, log in, and log out, delete account.
 -   Coding problems: Users can browse coding problems, submit solutions.
 -   User profile: Users can view their profile, including their solved problems and submissions.
+-   Discussion Forum: Users can interact with each other and share opinions realtime on the problems.
 
 # Technologies Used
 
