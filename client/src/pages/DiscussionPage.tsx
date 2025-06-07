@@ -66,13 +66,13 @@ const DiscussionPage: React.FC<DiscussionPageProps> = ({ token, id }) => {
             required
           />
           <textarea
-            value={body}
-            onChange={(e) => setBody(e.target.value)}
-            placeholder="Your message"
-            className="w-full p-2 border rounded mb-2"
-            rows={4}
-            required
-          />
+  value={body}
+  onChange={e => setBody(e.target.value)}
+  className="w-full p-2 border rounded mb-2 bg-white text-black"
+  rows={3}
+  required
+/>
+
           <button
             type="submit"
             className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"

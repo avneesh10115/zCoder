@@ -55,12 +55,13 @@ const ThreadDetailPage: React.FC<{ token: string | null; id: string | null }> = 
         {token && (
           <form onSubmit={handleComment} className="mt-4">
             <textarea
-              value={body}
-              onChange={e => setBody(e.target.value)}
-              className="w-full p-2 border rounded mb-2"
-              rows={3}
-              required
-            />
+  value={body}
+  onChange={e => setBody(e.target.value)}
+  className="w-full p-2 border rounded mb-2 bg-white text-black"
+  rows={3}
+  required
+/>
+
             <button type="submit" className="px-4 py-2 bg-green-600 text-white rounded">
               Post Comment
             </button>
