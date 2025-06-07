@@ -11,6 +11,16 @@
 
 zCoder is a coding platform project inspired from leetcode and other coding platforms, a platform for developers to practice coding problems and improve their skills. This project was created as a full-stack project using Express, MongoDB, Mongoose, TypeScript,TypeScript React (TSX), CSS3, and Tailwind CSS.
 
+# Demonstration
+
+
+
+
+https://github.com/user-attachments/assets/a203aae0-fd51-4915-a2ba-cc80685b93ad
+
+
+
+
 # Collaborators
 
 1) @avneesh10115
