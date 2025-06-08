@@ -59,6 +59,7 @@ npm start
 -   Coding problems: Users can browse coding problems, submit solutions.
 -   User profile: Users can view their profile, including their solved problems and submissions.
 -   Discussion Forum: Users can interact with each other and share opinions realtime on the problems.
+-   Threads : Each Thread gets a seperate page where we can post comments and interact with others.
 
 # Technologies Used
 
